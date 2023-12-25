@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "linear-algebra-wiki",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "A wiki website for lienar algebra where you can find anyhting you related to linear-algebra, fromm courses, tutorials, help and tools.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/raideno/linear-algebra-wiki.git"
   },
   "author": "Shu Ding <g@shud.in>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/raideno/linear-algebra-wiki/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/raideno/linear-algebra-wiki#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
